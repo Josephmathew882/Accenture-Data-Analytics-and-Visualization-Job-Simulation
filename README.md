@@ -30,5 +30,12 @@ About Client: [Social Buzz](https://github.com/Josephmathew882/Accenture-Data-An
 
   # Task - 3
 ## Data Visualiztion and Storytelling 
+Make the Powerpoint presentation for the client to give insights and recomendations
+[Presentation for client](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Task%203_final.pptx)
+
+# Task - 4
+## Present to the clients
+Presenting the powerpoint created before clients and give them insights and recommendation regarding their data
+
 
 
