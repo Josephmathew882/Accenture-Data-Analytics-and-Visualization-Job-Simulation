@@ -23,6 +23,9 @@ About Client: [Social Buzz](https://github.com/Josephmathew882/Accenture-Data-An
   
 ## Data Modeling
  From the all the datasets given we have used ReactionTypes, Reactions and Content data sets.
+ 
  We created a final dataset by merging these three datasets with use of power query and identified the top 5 categories which have higher popularity.
-  
+
+  [Cleaned and Merged Dataset](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Cleaned%20Data%20%20with%20Top%205%20Categories.xlsx)
+
 
