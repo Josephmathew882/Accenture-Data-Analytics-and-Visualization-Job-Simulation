@@ -8,5 +8,8 @@ This project includes understanding of client data, data cleaning and modeling, 
 * She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
   
 * Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
+
+  
+# [About Client](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Data_Analytics%20Client%20Brief%20(1).pdf)
   
 
