@@ -28,4 +28,7 @@ About Client: [Social Buzz](https://github.com/Josephmathew882/Accenture-Data-An
 
   [Cleaned and Merged Dataset](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Cleaned%20Data%20%20with%20Top%205%20Categories.xlsx)
 
+  # Task - 3
+## Data Visualiztion and Storytelling 
+
 
