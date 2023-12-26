@@ -11,5 +11,9 @@ This project includes understanding of client data, data cleaning and modeling, 
 
   
 About Client: [Social Buzz](https://github.com/Josephmathew882/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Data_Analytics%20Client%20Brief%20(1).pdf)
+
+# Task - 2
+## Project Understanding
+
   
 
